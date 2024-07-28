@@ -10,6 +10,7 @@ E, novamente, a surpresa (não tão surpresa assim) vem aí... **👀**
 
 O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
+#### Site errado:
 <img src="./github/site-errado.png" alt="Site com o código errado">
 
 Topa encarar esse desafio e deixar o site com a mesma carinha de antes? 💜
@@ -20,4 +21,5 @@ Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conc
 ### Desafio concluído
 Código foi arrumado de maneira que o site ficasse igual ao que foi apresentado durante as aulas e igual ao que está no [Figma](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1).
 
+#### Site corrigido:
 <img src="./github/site-correto.png" alt="Site correto">
